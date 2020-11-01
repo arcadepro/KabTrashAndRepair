@@ -1,0 +1,7 @@
+## Title: |cff3399FFKab|r Trash and Repair
+## Interface: 90001
+## Author: Kab
+## Version: 1.10
+## Notes: Autosells grey trash and repairs your gear.
+
+KabTrashAndRepair.lua
